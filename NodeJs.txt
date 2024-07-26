@@ -1,0 +1,11 @@
+--> NPM means Node Package Manager
+--> Nodejs is an runtime environment used for executing JavaScript code.
+--> We often use node to build backend services like API's.
+
+Things to work on:- 
+-----------------
+>> HTTP Module
+>> File system module
+>> URL module
+>> NodeJS NPM
+>> NodeJS Email
